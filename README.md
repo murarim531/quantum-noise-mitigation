@@ -2,7 +2,7 @@
 
 This repository contains all code, raw data, and results for the paper:
 “Quantum Noise Mitigation in NISQ Devices: Baseline Noise Characterization, Zero-Noise Extrapolation, and Measurement Error Mitigation”.
-
+ **zenodo DOI**  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17902957.svg)](https://doi.org/10.5281/zenodo.17902957)
  **Paper PDF:** file:///C:/Users/murar/Downloads/quantum_computing_noise_mitigation%20(2).pdf
  **GitHub Repo:** https://github.com/murarim531/quantum-noise-mitigation
 
