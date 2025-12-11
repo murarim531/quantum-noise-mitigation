@@ -1,3 +1,11 @@
+## Repository Overview
+
+This repository contains all code, raw data, and results for the paper:
+“Quantum Noise Mitigation in NISQ Devices: Baseline Noise Characterization, Zero-Noise Extrapolation, and Measurement Error Mitigation”.
+
+ **Paper PDF:** file:///C:/Users/murar/Downloads/quantum_computing_noise_mitigation%20(2).pdf
+ **GitHub Repo:** https://github.com/murarim531/quantum-noise-mitigation
+
 Zero-Noise Extrapolation (ZNE) · Measurement Error Mitigation · Depolarizing Noise Scaling
 
 This repository contains my full research workflow, experiments, data, and analysis on quantum noise mitigation techniques using Qiskit Aer.
